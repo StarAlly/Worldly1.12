@@ -1,0 +1,38 @@
+Updated Forge
+    Prev: 2604
+    New: 2613
+
+UPDATED THE FOLLOWING:
+- Forestry
+    Prev: 5.7.0.238
+    New: 5.8.0.242
+- Hammer Core
+    Prev: 1.9.6.3
+    New: 1.9.6.4
+- Just Enough Items
+    Prev: 4.8.5.138
+    New: 4.8.5.147
+- Pam's Harvestcraft
+    Prev: 1.12.2m
+    New: 1.12.2o
+- PlusTiC
+    Prev: 6.3.2.1
+    New: 6.3.6.2
+- Twilight Forest
+    Prev: 3.5.263
+    New: 3.6.345
+
+ADDED THE FOLLOWING:
+- Ender Storage (by covers1624, chicken_bones)
+- Dark Utilities (by darkh4x)
+- The One Probe (by McJty)
+- Industrial Craft (by Player)
+
+ADDED THE FOLLOWING API/CORE MODS:
+- McJtyLib (by McJty)
+- Guide API (by TehNut, Tombenpotter)
+- Mouse Tweaks (by YaLTeR97)
+- CraftTweaker (by jaredlll08)
+- MPUtils (by GenDeathrow)
+- MPUtils Basic Tools (by GenDeathrow)
+- JEI Bees (by bdew)
